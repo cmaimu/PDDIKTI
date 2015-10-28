@@ -1,5 +1,27 @@
-Masalah validasi mahasiswa
+####  Masalah validasi mahasiswa   #####
 
 1154010066  	Hilyani	>>		tanggal lahir salah
 Muhamad Abdul Ropik		1154020167 	15-10-2015 >> sks nilai transfer
 Zamzam Zamaludin		1154020166 	16-10-2015 >> tanggal lahir salah
+
+####     Validasi AKTIVITAS MAHASISWA   ######
+#No	#Nama		#NIM		#Semester	#sks smt > 30 sks	#IPS lebih 4	#IPK lebih 4
+(page 5)
+45 	AA HILMAN BAGJA H		1134020001 	2013/2014 Genap 	0 	0 	3.05 
+46 	AA HILMAN BAGJA H		1134020001 	2014/2015 Ganjil 	0 	0 	2.7 
+(page 6) 
+58 	AAB ABDUL FATAH		1210404001 	2013/2014 Genap 	8 	3 	0 
+(page 8)
+78 	AAM AMRULLAH		1211401001 	2012/2013 Genap 	0 	0 	3.29
+79 	AAM AMRULLAH		1211401001 	2013/2014 Ganjil 	0 	0 	3.26
+80 	AAM HAMZAH		1211406001 	2012/2013 Genap 	0 	0 	2.92
+(page9)
+81 	AAM HAMZAH		1211406001 	2013/2014 Ganjil 	0 	0 	3.26
+82 	AAM HAMZAH		1211406001 	2013/2014 Genap 	0 	0 	3.1
+83 	AAM HAMZAH		1211406001 	2014/2015 Ganjil 	0 	0 	0
+(page 11)
+102 	AAN ROHAENI		1124040001 	2012/2013 Ganjil 	20 	3.38 	0
+(page15)
+142 	AAS PUSPITA SARI D		1210404002 	2014/2015 Ganjil 	0 	0 	3
+143 	AAS PUSPITA SARI D		1210404002 	2013/2014 Genap 	0 	0 	1.55
+144 	AAS SADIAH		1210404003 	2013/2014 Genap 	0 	0 	4
